@@ -1,5 +1,5 @@
-# Sneakahs Web App
-A one stop shop to view buy and sell prices of sneakers from StockX and Goat. More marketplaces will be added in the future.
+# Sneakahs
+A one stop shop web app to view the buy and sell prices of sneakers from StockX and Goat. More marketplaces will be added in the future.
 
 # Icons
 sneaker icon
